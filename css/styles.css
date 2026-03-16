@@ -1,0 +1,19 @@
+
+        /* Estilos básicos inline por ahora, luego los separas */
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .hero {
+            text-align: center;
+            padding: 40px 0;
+        }
+        .status {
+            background: rgb(100, 128, 253);
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
